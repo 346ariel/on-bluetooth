@@ -1,6 +1,9 @@
 git clone https://github.com/346ariel/on-bluetooth.git
+
 cd on-bluetooth
+
 chmod +x on-bluetooth.sh
+
 ./on-bluetooth.sh
 
 este script es para encender y apagar el bluetooth
